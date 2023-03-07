@@ -1,6 +1,6 @@
 <a href="https://firat.io" target="_blank"><img src="https://github.com/firatkucuk/firatkucuk/raw/main/img/background.png" /></a>
 
-### Hey there 👋
+### 👋 Hey there
 
 Lifetime developer, Sci-fi addicted, cat squeezer, the last baklava bender, good lyrics detector, meeting doodler, bench activist, entrepreneur-ish.
 
