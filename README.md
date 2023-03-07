@@ -11,7 +11,7 @@ A software architect/developer, open-source evangelist, living in The Hague, The
 ### :panda_face: Social media
 
 - :necktie: <a href="https://linkedin.com/in/firatkucuk">linkedin.com/in/firatkucuk</a>
-- :elephant: <a href="https://mstdn.social/@firat">@firat@mstdn.social</a>
+- :elephant: <a href="https://mstdn.social/@firat">@firat</a>
 - :bird: <a href="https://twitter.com/fplusplus">@fplusplus</a>
 - :bug: <a href="https://stackoverflow.com/users/159837/f%c4%b1rat-k%c3%bc%c3%a7%c3%bck">stackoverflow</a>
 - :penguin: <a href="https://dev.to/fk">dev.to/fk</a>
