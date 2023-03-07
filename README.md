@@ -1,3 +1,5 @@
+<a href="https://firat.io" target="_blank"><img src="https://github.com/firatkucuk/firatkucuk/raw/main/img/background.png" /></a>
+
 ### Hi there 👋
 
 <!--
