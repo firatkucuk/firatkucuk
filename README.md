@@ -16,3 +16,7 @@ A software architect/developer, open-source evangelist, living in The Hague, The
 - :bug: <a href="https://stackoverflow.com/users/159837/f%c4%b1rat-k%c3%bc%c3%a7%c3%bck">stackoverflow</a>
 - :penguin: <a href="https://dev.to/fk">dev.to/fk</a>
 - :monkey: <a href="https://instagram.com/firatronic">instagram.com/firatronic</a>
+
+### :bullettrain_side: Major publications
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/5GQpxqORlr0/0.jpg)](https://www.youtube.com/watch?v=5GQpxqORlr0)
