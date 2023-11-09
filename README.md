@@ -6,7 +6,7 @@ Lifetime developer, Sci-fi addicted, cat squeezer, the last baklava bender, good
 
 ### :cat: Who am I?
 
-A freelance software architect/developer, open-source evangelist, living in The Hague, The Netherlands. Currently, I work as a Tech Lead in <a href="https://bloomreach.com" target="_blank">Bloomreach</a>. Also I am founder of <a href="https://fria.io" target="_blank">fria tech</a>, <a href="https://repsy.io" target="_blank">repsy</a> and co-founder of <a href="https://magicaccents.com" target="_blank">magicaccents</a>.
+A freelance software architect/developer, open-source evangelist, living in The Hague, The Netherlands. I am founder of <a href="https://fria.io" target="_blank">Fria Tech</a>, <a href="https://repsy.io" target="_blank">Repsy</a> and co-founder of <a href="https://zyfera.com" target="_blank">Zyfera</a>, <a href="https://magicaccents.com" target="_blank">magicaccents</a>.
 
 ### :panda_face: Social media
 
